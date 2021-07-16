@@ -18,6 +18,20 @@ Quinter is a fully accessible, easy-to-use, light-weight Twitter client. It work
 
 Quinter has two interfaces. GUI and invisible. Invisible allows you to control Quinter from anywhere on your computer. This is disabled by default, but can be easily enabled in settings. GUI allows you to control Quinter like any other application, with buttons, lists, menus, etc.
 
+## Main window.
+
+The main window of Quinter is simple, allowing anyone (no matter their skill level), to use the application without any issues. It contains two list boxes. One contains all your different timelines (e.g. Home, Mentions, Messages, Likes, etc.), and the other contains all the tweets/messages in that particular timeline.
+
+Quinter also has a standard menu bar, allowing you to carry out many functions right from the menu, without having to remember keys! The menus are as follows.
+
+* Application: Various application related functions, such as options, update profile, and exit.
+* Actions: This menu contains various different actions, such as tweet, reply, retweet, like, send direct message, etc.
+* Users: This menu contains options that let you see mutual follows, people you follow that don't follow you, and vice versa.
+* Timeline: The timeline menu let's you control your currently focused timeline. Refreshing it, getting older items, hiding it, etc.
+* Audio: The audio menu let's you handle Quinter's audio. It let's you play audio, and adjust the volume of the application.
+* Navigation: This menu let's you navigate timelines in advanced ways (e.g. jumping to the next and previous tweet from a user).
+* Help: This is your standard help menu. You can view this document, view stats for nerds, and a lot more!
+
 ## Keys.
 
 ### GUI
