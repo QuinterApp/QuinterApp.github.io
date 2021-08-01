@@ -90,6 +90,8 @@ Here are the default keys for the invisible interface on Windows only, as it doe
 * alt + windows + control + shift + enter: open URL to tweet in browser.
 * alt + windows + e: Toggle autoread for current timeline.
 * alt + windows + M: Toggle mute for current timeline.
+* Control+Windows+Page up: Move up 20 items.
+* Control+Windows+Page down: Move down 20 items.
 
 ## Templates.
 
