@@ -168,6 +168,7 @@ This dialog is divided into multiple tabs. They are as follows.
 * Update time (in minutes): This changes how frequently the API tries to pull for new tweets.
 * Max API calls when fetching users in user viewer: This changes how many followers and friends you can pull when viewing them. One request = 200 followers/friends.
 * Number of tweets to fetch per call (Maximum is 200): Changes how many tweets you pull per request (mainly noticeable on startup).
+* Enable streaming for home, mentions, and list timelines (This is very experimental! Requires restart to disable): Enables very, very exparamental and breaky streaming API support.
 * External media player. You can choose your media player of choice here.
 
 ### Account options.
