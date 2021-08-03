@@ -146,6 +146,7 @@ This dialog is divided into multiple tabs. They are as follows.
 * Play a sound when you navigate to a timeline that may have new items: This option will play a sound if a timeline you navigate to has items that might be new (i.e. you're not at the edge of the timeline).
 * Remove emojis and other unicode characters from display names: Tired of people with 50 emojis in their names? Check this box, and suffer no more! If the user in questoin has only emojis, the screen name will show instead.
 * Remove emojis and other unicode characters from tweet text: This option is similar to the username one, but it works with tweet text.
+* Number of tweets to move when using control+windows+page up/down: This option only applies to the invisible interface. It let's you choose how much control+windows+page up/down moves you. The default is 20. Allowed ranges are 5 to 50. Anything lower or higher than this, Quinter will round for you.
 * Reverse timelines (newest on bottom): This option puts the newest tweets at the bottom, rather than at the top.
 * Word wrap in text fields: If checked, long lines will wrap onto new lines in any text field, including the new tweet dialog.
 * when getting URLs from a tweet, automatically open the first URL if it is the only one : If a tweet contains only one URL, pressing the open URL command will open it by default if this is checked.
